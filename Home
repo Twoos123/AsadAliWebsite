@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Personal Website</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+		h1 {
+			color: #333;
+		}
+		nav {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			margin-bottom: 20px;
+		}
+		nav ul {
+			list-style: none;
+			display: flex;
+		}
+		nav li {
+			margin: 0 10px;
+		}
+		nav a {
+			color: #333;
+			text-decoration: none;
+		}
+		main {
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 20px;
+		}
+		main article {
+			width: 65%;
+		}
+		main aside {
+			width: 30%;
+			margin-left: 5%;
+		}
+		footer {
+			color: #999;
+			font-size: 0.8em;
+			text-align: center;
+			margin-top: 20px;
+		}
+	</style>
+</head>
+<body>
+	<nav>
+		<h1>Asad Ali</h1>
+		<ul>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Work</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+	</nav>
+	<main>
+		<article>
+			<h2>About Me</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer molestie, justo in rutrum tincidunt, metus metus mollis elit, quis pulvinar nisi nibh eget nisi. Sed volutpat aliquam lectus, sed suscipit metus tincidunt id. Fusce tempus imperdiet odio, eget hendrerit lacus. In non viverra nibh, a lobortis magna. Donec tincidunt leo at felis tincidunt, vel viverra tellus pretium. Suspendisse potenti. Nulla facilisi. Aenean vel rutrum lectus. Proin pharetra ornare orci, at rutrum enim elementum et. Sed id elit eu urna auctor bibendum a quis urna. Curabitur a enim sed lectus condimentum malesuada vel vel eros.</p>
+		</article>
+	

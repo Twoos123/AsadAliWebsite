@@ -59,7 +59,6 @@ footer {
 .text {
 	font-family: sans-serif;
 	text-align: center;
-	color: red;
 	width: 15em;
 	box-shadow: 8px 8px 5px #444;
 	padding: 8px 12px;
@@ -68,5 +67,4 @@ footer {
 
 .bigtxt {
 	font-family: sans-serif;
-	color: red;
 }

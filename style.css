@@ -53,5 +53,18 @@ footer {
 }
 
 .links {
-	font family: sans-serif;
+	font-family: sans-serif;
+}
+
+.text {
+	color: black;
+}
+
+.text:hover {
+	color: #61b3e7;
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
 }

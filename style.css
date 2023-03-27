@@ -1,8 +1,8 @@
 body {
 	font-family: sans-serif;
-	max-width: 800px;
+	max-width: 1400px;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 50px;
 }
 
 h1 {
@@ -58,6 +58,7 @@ footer {
 
 .text {
 	color: black;
+	position: relative;
 	line-height: 1.6;
 }
 

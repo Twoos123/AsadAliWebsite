@@ -58,6 +58,7 @@ footer {
 
 .text {
 	color: black;
+	line-height: 1.6;
 }
 
 .text:hover {

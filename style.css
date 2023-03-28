@@ -1,8 +1,8 @@
 body {
 	font-family: sans-serif;
-	max-width: 1500px;
 	margin: 0 auto;
 	padding: 50px;
+	text-align: center;
 }
 
 h1 {
@@ -30,21 +30,6 @@ nav a {
 	text-decoration: none;
 }
 
-main {
-	display: flex;
-	justify-content: space-between;
-	margin-bottom: 20px;
-}
-
-main article {
-	width: 65%;
-}
-		
-main aside {
-	width: 30%;
-	margin-left: 5%;
-}
-
 footer {
 	color: #999;
 	font-size: 0.8em;
@@ -60,6 +45,9 @@ footer {
 	color: black;
 	position: relative;
 	line-height: 1.6;
+	text-align: center;
+	translate:
+
 }
 
 .text:hover {
@@ -76,6 +64,6 @@ footer {
     vertical-align: top;
     width: 60px;
     height: 60px;
-    margin-left: 180px;
+    margin-left: 220px;
     /*margin-top: 15px;    /* if you want it vertically middle of the navbar. */
 }

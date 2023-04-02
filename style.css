@@ -14,6 +14,7 @@ nav {
 	justify-content: space-between;
 	align-items: center;
 	margin-bottom: 20px;
+	font-weight: 600;
 }
 
 nav ul {
@@ -46,8 +47,7 @@ footer {
 	position: relative;
 	line-height: 1.6;
 	text-align: center;
-	translate:
-
+	font-weight: 600;
 }
 
 .text:hover {
@@ -66,4 +66,10 @@ footer {
     height: 60px;
     margin-left: 220px;
     /*margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+}
+
+.picture {
+	width: 180px;
+	height: 250px;
+
 }

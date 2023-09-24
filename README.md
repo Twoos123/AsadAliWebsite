@@ -1,5 +1,5 @@
 # AsadAliWebsite
-Hello, this is my personalized website.
+Hello, this is my personalized website. (OUTDATED)
 Started on December 12th, 2022.
 Using HTML/CSS for Layout and Styling and JS for animations.
 Might use React in the future to improve this project.
